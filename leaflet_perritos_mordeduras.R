@@ -101,6 +101,6 @@ perros = leaflet()|>
 
 perros
 library(htmlwidgets)
-saveWidget(perros, "Perros y gatos/Mapas Web/Casos de Mordeduras por Perros/mapa_mordedura_perros.html",selfcontained = T)
+saveWidget(perros, "mapa_mordedura_perros.html",selfcontained = T)
 
 
